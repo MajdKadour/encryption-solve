@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34221.43
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "encryption solve", "encryption solve\encryption solve.pyproj", "{252F39E6-2598-4EB6-A188-7E07EE55BE0F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{252F39E6-2598-4EB6-A188-7E07EE55BE0F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{252F39E6-2598-4EB6-A188-7E07EE55BE0F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {36646F56-D3E5-447A-86FE-80328DAF9CBB}
+	EndGlobalSection
+EndGlobal
